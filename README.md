@@ -12,8 +12,9 @@ A game in which a player's goal is to untangle a bunch of tangled wires. Inspire
 ### Windows
 *(may work on Linux too but wasn't tested)*
 ```console
-$ processing-java --sketch=<path_to_bling_directory> --run
+$ processing-java --sketch=path/to/bling --run
 ```
+**Note:** `path/to/bling` is a path to the directory contating `bling.pde`.
 
 ## How to play
 Using mouse, swap a pairs of circles in order to remove intersections between the lines. The goal of a level is to remove all line intersections.
