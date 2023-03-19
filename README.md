@@ -1,9 +1,9 @@
 # Bling
 
+![](preview.gif)
+
 ## Description
 A game in which a player's goal is to untangle a bunch of tangled wires. Inspired by Blingtron mini-game in World of Warcraft.
-
-![](thumbnail.png)
 
 ## Requirements
 [Processing](https://processing.org) is required.
